@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<com.alibaba.dubbo.version>2.5.4</com.alibaba.dubbo.version>
 		<com.github.sgroschupf.version>0.1</com.github.sgroschupf.version>
-		<org.apache.zookeeper.version>3.4.9</org.apache.zookeeper.version>
+		<org.apache.zookeeper.version>3.4.14</org.apache.zookeeper.version>
 		<junit.version>4.12</junit.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.plugin.version>3.1</maven.compiler.plugin.version>
