@@ -11,7 +11,7 @@
 	</modules>
 
 	<properties>
-		<org.springframework.version>4.3.7.RELEASE</org.springframework.version>
+		<org.springframework.version>5.2.22.RELEASE</org.springframework.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<com.alibaba.dubbo.version>2.5.4</com.alibaba.dubbo.version>
 		<com.github.sgroschupf.version>0.1</com.github.sgroschupf.version>
